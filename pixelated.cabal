@@ -19,7 +19,6 @@ executable pixelated
   main-is:             Main.hs
   -- other-modules:       
   -- other-extensions:    
-  GHC-Options: -prof -fprof-auto -rtsopts
   build-depends:
     base >=4.7 && <4.8,
     vector,
